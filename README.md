@@ -8,7 +8,7 @@
 
 图片
 
-![Screen Shot 2023-04-16 at 7.48.03 PM](/https://image.oplin.cn/photo/temp/tes2.png)
+![Screen Shot 2023-04-16 at 7.48.03 PM](https://image.oplin.cn/photo/temp/tes2.png)
 
 有个小bug(先把作业交了等下来修)
 
