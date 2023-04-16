@@ -16,7 +16,9 @@
 
 虽然这里定义了enemy_color的enum
 我在配置中也修改了enemycolor值
-<img width="928" alt="Screen Shot 2023-04-16 at 7 49 30 PM" src="https://user-images.githubusercontent.com/49088507/232308494-c82353c3-044b-48fa-a31b-c03087ddc712.png">
+<img width="637" alt="Screen Shot 2023-04-16 at 8 02 14 PM" src="https://user-images.githubusercontent.com/49088507/232308538-c984db70-c01f-4fed-a0e6-feba75e91279.png">
+
+
 
 ![Screen Shot 2023-04-16 at 7.49.30 PM](https://image.oplin.cn/photo/temp/tes3.png)
 
